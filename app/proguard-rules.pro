@@ -1,0 +1,2 @@
+-keep class com.challenge.hard75.data.** { *; }
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }
